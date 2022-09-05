@@ -69,3 +69,7 @@ li:first-letter {
 .weather-forecast-min {
   opacity: 0.5;
 }
+.weather-app-container {
+  max-width: 600px;
+  margin: 20px auto;
+}
